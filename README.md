@@ -1,1 +1,2 @@
 # React_Projects
+- [Project 1: CasaVistaproperties](https://www.casavistaproperties.com/) -CasaVista is a real estate platform designed to provide users with a seamless experience for browsing, renting, and purchasing properties. It offers an intuitive interface with advanced search filters, interactive property listings, and virtual tours, helping users find their dream homes effortlessly. Built with modern web technologies, CasaVista ensures a responsive, user-friendly design across all devices. 
